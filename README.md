@@ -1,7 +1,7 @@
 # Modernizing High Performance Computing for the Power Grid Leveraging AWS to Enable Scalable
 
-**Published:** 2024-09-12
-**Medium:** [https://medium.com/@kyle-t-jones/modernizing-high-performance-computing-for-the-power-grid-leveraging-aws-to-enable-scalable-516944d7ac14](https://medium.com/@kyle-t-jones/modernizing-high-performance-computing-for-the-power-grid-leveraging-aws-to-enable-scalable-516944d7ac14)
+Published: 2024-09-12
+Medium: [https://medium.com/@kyle-t-jones/modernizing-high-performance-computing-for-the-power-grid-leveraging-aws-to-enable-scalable-516944d7ac14](https://medium.com/@kyle-t-jones/modernizing-high-performance-computing-for-the-power-grid-leveraging-aws-to-enable-scalable-516944d7ac14)
 
 ## About
 
