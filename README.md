@@ -11,14 +11,7 @@ The increasing penetration of distributed energy resources, such as solar, wind,
 
 On-premises HPC clusters suffer from several key challenges that hinder their ability to meet the evolving computational needs of the power grid. Adding new nodes to an on-premises HPC cluster can be a lengthy, manual process, taking months due to lengthy procurement cycles. This makes it difficult to scale resources to meet spikes in computational demand. Heavily customized on-premises HPC environments are often isolated from other enterprise applications and data analytics tools, limiting the ability to integrate grid simulation results with broader business intelligence and planning efforts. Maintaining aging hardware and upgrading software on on-premises HPC clusters can be a significant burden for IT staff, diverting resources away from strategic initiatives.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
